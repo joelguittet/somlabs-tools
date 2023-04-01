@@ -11,7 +11,7 @@ Flashing
 
 The uuu utility is used to flash NAND and eMMC devices.
 
-Instructions to use it are available in my Github at https://github.com/myfreescalewebpage/meta-somlabs.
+Instructions to use it are available in my Github at https://github.com/joelguittet/meta-somlabs.
 
 
 Contributing
